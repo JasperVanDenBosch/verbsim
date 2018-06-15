@@ -1,3 +1,9 @@
+# leave plots out for now
+*.png
+
+# VS code IDE
+.vscode/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
